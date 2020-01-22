@@ -1,0 +1,3 @@
+Hello 
+Sample file for second release.
+Created in branch release02.
